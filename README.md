@@ -40,11 +40,11 @@ Il y a à disposition une barre d'outils sur la droite permettant d'ajouter auto
 Il est possible de modifier un atome créé précédemment au moyen d'un clique droit sur ce dernier.
 
 ### Formule brute
-La Formule brute est automatiquement affichée quand l'utilisateur rentre un des deux autres formes, il n'y aucune conditions spéciales dans ce sens.
-Dans le cas où l'utilisateur rentre la fomule brute, il y a quatres "spécialitées" à mentionner :
-  - La formule brute peux être rentrée en minuscule ou majuscule et avec des espaces entre les différents "groupes" mais le nombre d'atomes doit être **IMPERATIVEMENT** colé à la lettre définissant l'atome. Ex : C4 h10 et non pas : c 4H 10
-  - Le programme renvoie une possibiltée à l'utilisateur mais il est cappable de toute les trouver (**Hormis les cycles**) donc il possible d'avoir deux fois la même représentation.
-  - le programme ne peux pas prendre en compte les formules brute avec plus 99 atome d'un meme genre. Ex : C46 H98 O99 est la plus grande molécule possible.
+La Formule brute est automatiquement affichée quand l'utilisateur rentre une des deux autres formes, il n'y a aucune conditions spéciales dans ce sens.
+Dans le cas où l'utilisateur rentre la fomule brute, il y a quatres particularités à mentionner :
+  - La formule brute peux être rentrée en minuscule ou majuscule et avec des espaces entre les différents "groupes" mais le nombre d'atomes doit être **IMPERATIVEMENT** collé à la lettre définissant l'atome. Ex : C4 h10 et non pas : c 4H 10
+  - Le programme renvoie une possibiltée à l'utilisateur mais il est capable de toutes les trouver (**Hormis les cycles**) donc il possible d'avoir deux fois la même représentation.
+  - le programme ne peux pas prendre en compte les formules brutes avec plus 99 atome d'un meme genre. Ex : C46 H98 O99 est la plus grande molécule possible.
   - le programme ne prend pas en compte les cycles
 
 ### Formule nomenclaturée
