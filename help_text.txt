@@ -64,11 +64,13 @@ along with this program.  If not, see <a href="http://www.gnu.org/licenses/">htt
 <h3 id="formule-brute">Formule brute</h3>
 
 <p>La Formule brute est automatiquement affichée quand l'utilisateur rentre un des deux autres formes, il n'y aucune conditions spéciales dans ce sens.</p>
-<p>Dans le cas où l'utilisateur rentre la fomule brute, il y a deux "spécialitées" à mentionner :</p>
-<p> - La formule brute peux être rentrée en minuscule ou majuscule et avec des espaces entre les différents "groupes" mais le nombre d'atomes doit être <strong>IMPERATIVEMENT</strong> colé à la lettre définissant l'atome. Ex : C4 h10 et non pas : c 4H 10</p>
-<p> - Le programme renvoie une possibiltée à l'utilisateur mais il est cappable de toute les trouver <strong>(Hormis les cycles)</strong> donc il possible d'avoir deux fois la même représentation.</p>
-<p> - le programme ne peux pas prendre en compte les formules brute avec plus 99 atome d'un meme genre. Ex : C46 H98 O99 est la plus grande molécule possible.</p>
-<p> - le programme ne prend pas en compte les cycles </p>
+<p>Dans le cas où l'utilisateur rentre la fomule brute, il y a deux particularités à mentionner :
+<ul>
+<li>La formule brute peux être rentrée en minuscule ou majuscule et avec des espaces entre les différents "groupes" mais le nombre d'atomes doit être <strong>IMPERATIVEMENT</strong> collé à la lettre définissant l'atome. Ex : C4 h10 et non pas : c 4H 10</li>
+<li>Le programme renvoie une possibiltée à l'utilisateur mais il est capable de toutes les trouver <strong>(Hormis les cycles)</strong> donc il possible d'avoir deux fois la même représentation.</li>
+<li>le programme ne peux pas prendre en compte les formules brutes avec plus 99 atomes d'un meme genre. Ex : C46 H98 O99 est la plus grande molécule possible.</li>
+<li>le programme ne prend pas en compte les cycles</li> 
+</ul></p>
 
 
 <h3 id="formule-nomenclaturee">Formule nomenclaturée</h3>
