@@ -1,4 +1,5 @@
 #Nomenclature
+Lancement via gui.py.
 
 Nomenclature est un programme ayant pour but d'effectuer la conversion entre les formules brutes - topologiques et nomenclaturée d'une molécule de chimie organique. 
 
